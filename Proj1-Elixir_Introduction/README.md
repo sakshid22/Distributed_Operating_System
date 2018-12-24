@@ -1,8 +1,8 @@
 							Project 1
 Group Info:
 
-Ashutosh Garg - 0489-9999
-Sakshi Dubey  - 4813-1141
+Ashutosh Garg 
+Sakshi Dubey  
 
 Instructions:
 
